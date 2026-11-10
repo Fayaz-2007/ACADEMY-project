@@ -28,10 +28,10 @@ This mini HTML website is built to showcase a tech learning platform offering tr
 ---
 
 ## 🛠️ Technologies Used
-- 🌐 HTML5  
-- 🎨 Inline Styling  
-- 🧾 Tables & Forms  
-- 🎥 YouTube Video Embed  
+![](https://skillicons.dev/icons?i=html,css)
+
+- 🧾 Tables & Forms
+- 🎥 YouTube Video Embed
 
 ---
 
